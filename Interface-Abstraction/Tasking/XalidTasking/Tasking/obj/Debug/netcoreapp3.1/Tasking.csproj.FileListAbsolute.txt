@@ -1,0 +1,14 @@
+C:\Users\khalidms\source\repos\Tasking\Tasking\bin\Debug\netcoreapp3.1\Tasking.exe
+C:\Users\khalidms\source\repos\Tasking\Tasking\bin\Debug\netcoreapp3.1\Tasking.deps.json
+C:\Users\khalidms\source\repos\Tasking\Tasking\bin\Debug\netcoreapp3.1\Tasking.runtimeconfig.json
+C:\Users\khalidms\source\repos\Tasking\Tasking\bin\Debug\netcoreapp3.1\Tasking.runtimeconfig.dev.json
+C:\Users\khalidms\source\repos\Tasking\Tasking\bin\Debug\netcoreapp3.1\Tasking.dll
+C:\Users\khalidms\source\repos\Tasking\Tasking\bin\Debug\netcoreapp3.1\Tasking.pdb
+C:\Users\khalidms\source\repos\Tasking\Tasking\obj\Debug\netcoreapp3.1\Tasking.csproj.AssemblyReference.cache
+C:\Users\khalidms\source\repos\Tasking\Tasking\obj\Debug\netcoreapp3.1\Tasking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khalidms\source\repos\Tasking\Tasking\obj\Debug\netcoreapp3.1\Tasking.AssemblyInfoInputs.cache
+C:\Users\khalidms\source\repos\Tasking\Tasking\obj\Debug\netcoreapp3.1\Tasking.AssemblyInfo.cs
+C:\Users\khalidms\source\repos\Tasking\Tasking\obj\Debug\netcoreapp3.1\Tasking.csproj.CoreCompileInputs.cache
+C:\Users\khalidms\source\repos\Tasking\Tasking\obj\Debug\netcoreapp3.1\Tasking.dll
+C:\Users\khalidms\source\repos\Tasking\Tasking\obj\Debug\netcoreapp3.1\Tasking.pdb
+C:\Users\khalidms\source\repos\Tasking\Tasking\obj\Debug\netcoreapp3.1\Tasking.genruntimeconfig.cache
